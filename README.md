@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BhavinShiyaniya
-- 👀 I’m interested in Android Developement, Game Developement, Web Developement, DSA and many more
+- 👀 I’m interested in Web Developement, Game Developement, Android Developement, DSA and many more
 - 🌱 I’m always learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bhavinshiyaniya1201@gmail.com
